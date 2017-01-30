@@ -1,7 +1,11 @@
+## 1.3.0 - Major Release
+* Modified ReadMeFile - GIF Image
+* Modified URL userfulRegex Change
+* MOdified URL generator Button error
+
 ## 1.1.0 - Major Release
 * Modify getEditor() Error
 * Write ReadMe file
-
 
 ## 0.1.0 - First Release
 * Add Bottom Pannel
