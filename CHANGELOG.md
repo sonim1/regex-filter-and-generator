@@ -1,4 +1,4 @@
-## 1.3.0 - Major Release
+## 1.2.0 - Major Release
 * Modified ReadMeFile - GIF Image
 * Modified URL userfulRegex Change
 * MOdified URL generator Button error
