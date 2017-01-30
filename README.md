@@ -36,6 +36,6 @@ You can modify the regular expression in the InputBox.
 - Number
 - UserName
 - Password
-- HTML Tag
 - Number & Alphabet
 - Alphabet
+- UUID
