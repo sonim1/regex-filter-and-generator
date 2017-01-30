@@ -14,7 +14,7 @@ OSX : Ctrl+Option+R
 
 Support Regular Expression Search.
 
-![enter image description here](https://media.giphy.com/media/l3q2xL15g3o6PgUrC/source.gif)
+![enter image description here](https://media.giphy.com/media/26xBvhezsaxD990hW/source.gif)
 
 ## Regular Expression generator
 
@@ -24,8 +24,7 @@ Useful regular expressions can be checked.
 
 You can modify the regular expression in the InputBox.
 
-
-![enter image description here](https://media.giphy.com/media/26xBIkQI1aoNlJ70s/source.gif)
+![enter image description here](https://media.giphy.com/media/d3mmMrL4OW8xGEpi/source.gif)
 
 - Email
 - Hex Color value

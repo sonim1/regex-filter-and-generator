@@ -17,7 +17,7 @@
         "flags": "g"
     }, {
         "name": "URL",
-        "expression": "^((https?|ftp|file):\/\/)?([\\da-z\\.-]+)\\.([a-z\\.]{2,6})([\/\\w \\.-]*)*\/?$",
+        "expression": "^(file|gopher|news|nntp|telnet|https?|ftps?|sftp):\/\/([a-z0-9-]+\\.)+[a-z0-9]{2,4}.*$",
         "flags": "g"
     }, {
         "name": "Positive Number",
