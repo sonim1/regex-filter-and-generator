@@ -1,7 +1,7 @@
 {
   "name": "regex-filter-and-generator",
   "main": "./lib/regex-filter-and-generator",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "description": "Regular Expressions filter & Generator",
   "keywords": [],
   "activationCommands": {
