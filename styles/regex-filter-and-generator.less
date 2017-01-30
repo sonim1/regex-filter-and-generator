@@ -1,0 +1,35 @@
+// The ui-variables file is provided by base themes provided by Atom.
+//
+// See https://github.com/atom/atom-dark-ui/blob/master/styles/ui-variables.less
+// for a full listing of what's available.
+@import "ui-variables";
+
+.regex-filter-and-generator {
+    padding: 10px;
+
+    atom-text-editor {
+        margin: 5px 0;
+    }
+
+    .regex-generator {
+        margin: 5px 0;
+
+        .generator-btn {
+            background-color: #434d67;
+            color: #c8d6f2;
+            border: none;
+            margin: 1px;
+            cursor: pointer;
+        }
+
+        .generator-btn:hover{
+            background-color: #5b688b;
+        }
+    }
+}
+
+atom-text-editor.editor {
+    .regexmarker-found .region {
+        background-color: rgb(87, 119, 215);
+    }
+}

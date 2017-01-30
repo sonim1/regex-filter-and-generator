@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle regex-filter-and-generator",
+        "command": "regex-filter-and-generator:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "regex-filter-and-generator",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "regex-filter-and-generator:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
