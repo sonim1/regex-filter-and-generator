@@ -2,7 +2,7 @@
 //
 // See https://github.com/atom/atom-dark-ui/blob/master/styles/ui-variables.less
 // for a full listing of what's available.
-@import "ui-variables";
+@import "user-variables";
 
 .regex-filter-and-generator {
     padding: 10px;
@@ -22,7 +22,7 @@
             cursor: pointer;
         }
 
-        .generator-btn:hover{
+        .generator-btn:hover {
             background-color: #5b688b;
         }
     }
@@ -31,6 +31,6 @@
 atom-text-editor.editor {
     .regexmarker-found .region {
         border-radius: 5px 0 5px 0;
-        background-color: rgba(31, 134, 63, 0.73);
+        background-color: @marker-background-color;
     }
 }
