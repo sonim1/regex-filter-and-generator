@@ -31,6 +31,14 @@
         "name": "Number",
         "expression": "^-?\\d*\\.?\\d+$",
         "flags": "g"
+    },{
+        "name": "Number&Alphabet",
+        "expression": "^[a-zA-Z0-9]+$",
+        "flags": "g"
+    }, {
+        "name": "Money",
+        "expression": "^\\$?(:?\\d+,?.?)+$",
+        "flags": "g"
     }, {
         "name": "UserName",
         "expression": "^[a-z0-9_-]{3,16}$",
@@ -38,10 +46,6 @@
     }, {
         "name": "Password",
         "expression": "^[a-z0-9_-]{6,18}$",
-        "flags": "g"
-    },{
-        "name": "Number&Alphabet",
-        "expression": "^[a-zA-Z0-9]+$",
         "flags": "g"
     }, {
         "name": "Alphabet",

@@ -36,9 +36,14 @@ You can modify the regular expression in the InputBox.
 - Positive Number
 - Negative Number
 - Number
+- Number & Alphabet
+- Money
+    - ex1) 100,000
+    - ex2) 100,000.123
+    - ex3) $100,000
+    - ex4) 100.220.000 (dot insted comma)
 - UserName
 - Password
-- Number & Alphabet
 - Alphabet
 - UUID
 - Date:yyyy/MM/dd
@@ -53,8 +58,6 @@ You can modify the regular expression in the InputBox.
     - ex4) 02 25 1989
 - Character Limit
     - 1-10
-
-
 
 ## Editing Tips
 
